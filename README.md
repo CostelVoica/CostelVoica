@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CostelVoica - a Software Developer
 - 🎓 USA Econometrics graduate from Wesleyan University
-- 👀 I’m looking for Software Developer / Data Science / Quantitative Research roles
+- 👀 Working on JavaScript, Python, and Machine Learning projects
 - 📫 How to reach me: costel.tudor.voica@gmail.com
 
 <!---

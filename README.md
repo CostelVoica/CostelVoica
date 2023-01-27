@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CostelVoica - a Software Developer
+- 👋 Hi, I’m @CostelVoica - a Software Engineer
 - 🎓 USA Econometrics graduate from Wesleyan University
-- 👀 Working on TypeScript, Python, and Machine Learning projects
-- 📫 How to reach me: costel.tudor.voica@gmail.com
+- 👷🏻 Working on TypeScript, Python, and Machine Learning projects
+
 
 <!---
 CostelVoica/CostelVoica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

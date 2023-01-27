@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CostelVoica - a Software Engineer
-- 🎓 USA Econometrics graduate from Wesleyan University
+- 📚 USA Econometrics graduate from Wesleyan University
 - 👷🏻 Working on TypeScript, Python, and Machine Learning projects
 
 

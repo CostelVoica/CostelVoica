@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CostelVoica - a Software Engineer
-- 👷🏻 Technologies: NextJS, React, TypeScript, Python (Data Science), Machine Learning
+- 👷🏻 Technologies: NextJS, React, TypeScript, MongoDB, Python (Data Science), Machine Learning
 - 📚 USA Economics graduate from Wesleyan University
 
 
